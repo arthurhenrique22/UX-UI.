@@ -1,0 +1,51 @@
+O processo de design e desenvolvimento de novos produtos exige abordagens que se adequem a determinados objetivos. Escreva as principais diferenças entre um Minimum Viable Product (MVP) e um protótipo, indicando as vantagens e desvantagens de cada.
+
+MVP é a versão mais simples e possível do produto a ser entregue, sendo um produto funcional e completo por si só. Este conceito pode ser utilizado para validar, com mais rapidez e menor custo, o fit de mercado de um produto e garantir a evolução das próximas versões baseadas no feedback de uso real dos usuários.
+
+Protótipo é uma visão simplificada do produto a ser desenvolvido para validar a aceitação do usuário. Podemos ter protótipos muito simples, até os mais tecnológicos e fiéis ao produto a ser entregue, porém, vale ressaltar que o protótipo não é algo funcional e por isso não pode ser comercializado como o produto.
+
+Vantagens MVP:
+
+- facilita a proposição de valor
+
+- acelera a evolução do produto
+
+- otimiza custos
+
+- reduz o trabalho.
+
+Desvantagens MVP:
+
+- não foca em pesquisas de mercado antes do desenvolvimento para não atrasar o processo.
+
+- não apresenta todos os recursos de um produto. Afinal, é preciso definir o mínimo necessário. Por isso, a experiência do cliente não é completa, o que pode afetar sua percepção inicial sobre o produto e a marca.
+
+Vantagens Protótipo:
+
+- Este modelo é flexível em design.
+
+- É fácil detectar erros.
+
+- Podemos encontrar facilmente a funcionalidade ausente.
+
+- Existe um escopo de refinamento, o que significa que novos requisitos podem ser facilmente acomodados.
+
+- Ele pode ser reutilizado pelo desenvolvedor para projetos mais complicados no futuro.
+
+- Garante um maior nível de satisfação e conforto do cliente.
+
+- Ele pode envolver ativamente os usuários na fase de desenvolvimento.
+
+Desvantagens Protótipo:
+
+- Possui documentação deficiente devido às constantes mudanças nos requisitos do cliente.
+
+- Pode haver muita variação nos requisitos.
+
+- Os clientes às vezes exigem que o produto real seja entregue logo após ver um protótipo inicial.
+
+- Pode haver soluções abaixo do ideal devido à pressa dos desenvolvedores em construir protótipos.
+
+- Os clientes podem não estar satisfeitos ou interessados no produto depois de ver o protótipo inicial.
+
+- Pode haver uma análise de problema incompleta ou inadequada.
